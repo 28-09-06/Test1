@@ -1,0 +1,13 @@
+
+div.top {background-color:#360060 ;}
+body {background-color: #070025; margin: 0px; text-align: center;}
+h1 {color: #624F82; margin: 0px; padding-top: 50px;}
+p {color: #624F82;}
+.middle {width: 200px; height: 200px; background-color: aquamarine; margin-bottom: 20px;}
+.bottom {width: 200px; height: 200px; background-color: aqua; margin-top: 20px;}
+.pro {text-decoration: underline;}
+.cloud-bottom {position: absolute; }
+.cloud-top {position: absolute; left: 1200px;}
+
+
+
